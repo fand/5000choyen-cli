@@ -1,0 +1,19 @@
+{
+  "name": "@fand/5000choyen-cli",
+  "version": "0.0.0",
+  "bin": {
+    "5000choyen": "index.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fand <fand@gmork.in>",
+  "license": "MIT",
+  "dependencies": {
+    "kexec": "^3.0.0",
+    "nightmare": "^2.10.0",
+    "nightmare-screenshot": "^1.0.0"
+  }
+}
